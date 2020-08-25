@@ -1,0 +1,2 @@
+# Bhaskara-
+Bhaskara with c++
